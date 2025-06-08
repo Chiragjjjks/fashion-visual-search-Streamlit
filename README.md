@@ -4,7 +4,6 @@ An AI-powered fashion visual search and recommendation tool built with **Streaml
 This app uses OpenAI’s **CLIP** model and **FAISS** for image similarity search, helping users discover similar fashion items using image URLs.
 
 ---
-
 ## 📁 Project Structure
 
 ├── app/ # Core app modules
@@ -13,7 +12,6 @@ This app uses OpenAI’s **CLIP** model and **FAISS** for image similarity searc
 ├── streamlit_app.py # Entry point to run the Streamlit app
 ├── test_links.txt # Sample image URLs for testing
 └── README.md # This file
-
 ---
 
 ## ⚙️ Setup Instructions
